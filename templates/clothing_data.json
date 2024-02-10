@@ -1,0 +1,248 @@
+[
+    {
+        "id": 4,
+        "name": "Ceinture",
+        "price": "30",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Viscose",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Montre",
+        "price": "64",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Polyester",
+        "image": "img6.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Foulard",
+        "price": "12",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Viscose",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chapeau",
+        "price": "78",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Viscose",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Echarpe",
+        "price": "23",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Elasthanne",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Portefeuille",
+        "price": "84",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Coton",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Foulard",
+        "price": "24",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Lin",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Echarpe",
+        "price": "22",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Elasthanne",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Portefeuille",
+        "price": "43",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Cuir",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Portefeuille",
+        "price": "42",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Coton",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Foulard",
+        "price": "31",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Coton",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chapeau",
+        "price": "12",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Polyester",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Montre",
+        "price": "95",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Polyester",
+        "image": "img6.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bijoux",
+        "price": "60",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Polyester",
+        "image": "img5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lunettes de soleil",
+        "price": "46",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Polyester",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ceinture",
+        "price": "99",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Coton",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lunettes de soleil",
+        "price": "26",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Elasthanne",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Echarpe",
+        "price": "62",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Cuir",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Echarpe",
+        "price": "20",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Coton",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Porte-monnaie",
+        "price": "73",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Cuir",
+        "image": "img7.jpg"
+    }
+]

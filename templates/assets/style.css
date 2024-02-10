@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+/*
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Caprasimo', serif;
+font-family: 'Gabarito', sans-serif;
+font-family: 'Hedvig Letters Serif', serif;
+ */
+
+.contain {
+
+}
+
+.nav {
+    background-color: white;
+    padding-bottom: 0;
+}
+
+.nav-index {
+    background-color: rgba(255, 255, 255, 0.3);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+nav a {
+    color: black;
+}
+
+.categories {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.logo {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.flexbox-index {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("./img/bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flexbox {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    padding: 10px 30px;
+}
+
+.title {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight: bolder;
+    font-size: 10em;
+    letter-spacing: 40px;
+    text-align: center;
+    color: black;
+    opacity: 70%;
+}
+
+.vetement-femmes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    min-height: 500px;
+    background-color: #ECEEEF;
+}
+
+a {
+    color: black;
+}
+
+h3 {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+img {
+    width: 320px;
+    height: 400px;
+}
+
+p {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    text-align: center;
+}
+
+select {
+    padding: 5px 15px;
+    background-color: transparent;
+    border: 1px solid black;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+select option {
+    border-radius: 0px;
+}
+
+button {
+    padding: 5px 15px;
+    background-color: transparent;
+    border: 1px solid #335352;
+    color: #335352;
+    cursor: pointer;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+.button_slide {
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #335352;
+    -webkit-transition: ease-out 0.4s;
+    -moz-transition: ease-out 0.4s;
+    transition: ease-out 0.4s;
+}
+
+.slide_right:hover {
+    box-shadow: inset 400px 0 0 0 #335352;
+    border: 1px solid #335352;
+    color: white;
+}
+
+button i {
+    margin-left: 5px;
+}
+
+.flex-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+    grid-auto-rows: max-content;
+    margin: 90px;
+}
+
+.padding {
+    padding: 6px;
+}
+
+.footer-index {
+    height: 60px;
+    background-color: transparent;
+}
+
+.footer {
+    height: 60px;
+    background-color: #ECEEEF;
+}
