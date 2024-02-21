@@ -1,45 +1,109 @@
 [
     {
-        "id": 4,
-        "name": "Ceinture",
-        "price": "30",
+        "id": 9,
+        "name": "Chemise",
+        "price": "71",
         "sizes": [
             "XS",
             "S",
             "M",
             "L"
         ],
-        "composition": "Viscose",
+        "composition": "Cuir",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "75",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Polyester",
         "image": "img4.jpg"
     },
     {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "93",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Coton",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "28",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Cuir",
+        "image": "img9.jpg"
+    },
+    {
         "id": 6,
-        "name": "Montre",
-        "price": "64",
+        "name": "Manteau",
+        "price": "92",
         "sizes": [
             "XS",
             "S",
             "M",
             "L"
         ],
-        "composition": "Polyester",
+        "composition": "Lin",
         "image": "img6.jpg"
     },
     {
         "id": 8,
-        "name": "Foulard",
-        "price": "12",
+        "name": "Short",
+        "price": "41",
         "sizes": [
             "XS",
-            "S"
+            "S",
+            "M",
+            "L"
         ],
-        "composition": "Viscose",
+        "composition": "Lin",
         "image": "img8.jpg"
     },
     {
-        "id": 2,
-        "name": "Chapeau",
-        "price": "78",
+        "id": 1,
+        "name": "T-shirt",
+        "price": "87",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Coton",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "72",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Viscose",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "70",
         "sizes": [
             "XS",
             "S",
@@ -49,90 +113,168 @@
             "XXL"
         ],
         "composition": "Viscose",
-        "image": "img2.jpg"
+        "image": "img9.jpg"
     },
     {
-        "id": 1,
-        "name": "Echarpe",
-        "price": "23",
-        "sizes": [
-            "XS"
-        ],
-        "composition": "Elasthanne",
-        "image": "img1.jpg"
-    },
-    {
-        "id": 0,
-        "name": "Portefeuille",
-        "price": "84",
-        "sizes": [
-            "XS"
-        ],
-        "composition": "Coton",
-        "image": "img0.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Foulard",
-        "price": "24",
+        "id": 2,
+        "name": "Pull",
+        "price": "61",
         "sizes": [
             "XS",
             "S",
-            "M"
+            "M",
+            "L"
         ],
-        "composition": "Lin",
+        "composition": "Coton",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "75",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Polyester",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "60",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Laine",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "87",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Coton",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short",
+        "price": "52",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Laine",
         "image": "img8.jpg"
     },
     {
-        "id": 1,
-        "name": "Echarpe",
-        "price": "22",
+        "id": 5,
+        "name": "Jean",
+        "price": "66",
         "sizes": [
             "XS",
-            "S"
+            "S",
+            "M",
+            "L"
         ],
-        "composition": "Elasthanne",
-        "image": "img1.jpg"
+        "composition": "Viscose",
+        "image": "img5.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "40",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Viscose",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "41",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Cuir",
+        "image": "img3.jpg"
     },
     {
         "id": 0,
-        "name": "Portefeuille",
-        "price": "43",
+        "name": "Pantalon",
+        "price": "72",
         "sizes": [
             "XS",
-            "S"
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Polyester",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "29",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Viscose",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Pantalon",
+        "price": "32",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
         ],
         "composition": "Cuir",
         "image": "img0.jpg"
     },
     {
         "id": 0,
-        "name": "Portefeuille",
-        "price": "42",
+        "name": "Pantalon",
+        "price": "28",
         "sizes": [
             "XS",
-            "S",
-            "M"
+            "S"
         ],
-        "composition": "Coton",
+        "composition": "Elasthanne",
         "image": "img0.jpg"
     },
     {
-        "id": 8,
-        "name": "Foulard",
-        "price": "31",
-        "sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "composition": "Coton",
-        "image": "img8.jpg"
-    },
-    {
         "id": 2,
-        "name": "Chapeau",
-        "price": "12",
+        "name": "Pull",
+        "price": "83",
         "sizes": [
             "XS",
             "S",
@@ -144,19 +286,562 @@
         "image": "img2.jpg"
     },
     {
-        "id": 6,
-        "name": "Montre",
-        "price": "95",
+        "id": 2,
+        "name": "Pull",
+        "price": "69",
         "sizes": [
             "XS"
+        ],
+        "composition": "Laine",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "45",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Laine",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "13",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Laine",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Pantalon",
+        "price": "60",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Cuir",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "29",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Lin",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "12",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Lin",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "15",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Polyester",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "34",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Elasthanne",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "13",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Coton",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short",
+        "price": "56",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Viscose",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "15",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Lin",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cardigan",
+        "price": "49",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Coton",
+        "image": "img7.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jean",
+        "price": "46",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Elasthanne",
+        "image": "img5.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short",
+        "price": "50",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Lin",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "44",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Coton",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "50",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Coton",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "60",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Laine",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "57",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Elasthanne",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "68",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Viscose",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Pantalon",
+        "price": "50",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Elasthanne",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "39",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Coton",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "24",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Elasthanne",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "74",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Elasthanne",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jean",
+        "price": "91",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Lin",
+        "image": "img5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Manteau",
+        "price": "76",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Lin",
+        "image": "img6.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "55",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Polyester",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "41",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Cuir",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "28",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Lin",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "75",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Viscose",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "40",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Viscose",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "36",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Elasthanne",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "23",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Viscose",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "76",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Coton",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Pantalon",
+        "price": "31",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Polyester",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Pantalon",
+        "price": "84",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Viscose",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cardigan",
+        "price": "69",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Lin",
+        "image": "img7.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Manteau",
+        "price": "82",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
         ],
         "composition": "Polyester",
         "image": "img6.jpg"
     },
     {
+        "id": 4,
+        "name": "Veste",
+        "price": "44",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Polyester",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "55",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Cuir",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short",
+        "price": "82",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Cuir",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "87",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Coton",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "14",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Laine",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 0,
+        "name": "Pantalon",
+        "price": "15",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Cuir",
+        "image": "img0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "61",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Coton",
+        "image": "img2.jpg"
+    },
+    {
         "id": 5,
-        "name": "Bijoux",
-        "price": "60",
+        "name": "Jean",
+        "price": "11",
         "sizes": [
             "XS",
             "S",
@@ -168,9 +853,295 @@
         "image": "img5.jpg"
     },
     {
+        "id": 2,
+        "name": "Pull",
+        "price": "55",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Coton",
+        "image": "img2.jpg"
+    },
+    {
         "id": 3,
-        "name": "Lunettes de soleil",
-        "price": "46",
+        "name": "Sweatshirt",
+        "price": "78",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Elasthanne",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cardigan",
+        "price": "58",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Viscose",
+        "image": "img7.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chemise",
+        "price": "62",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Laine",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "75",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Cuir",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jean",
+        "price": "21",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Coton",
+        "image": "img5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "63",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Cuir",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "32",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Coton",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "86",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Lin",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short",
+        "price": "19",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Cuir",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cardigan",
+        "price": "63",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Lin",
+        "image": "img7.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "25",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Viscose",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "96",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Viscose",
+        "image": "img4.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "77",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Lin",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jean",
+        "price": "69",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "Lin",
+        "image": "img5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "26",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Cuir",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pull",
+        "price": "75",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Viscose",
+        "image": "img2.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cardigan",
+        "price": "22",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Polyester",
+        "image": "img7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short",
+        "price": "80",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "composition": "Lin",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": "53",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Viscose",
+        "image": "img1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cardigan",
+        "price": "59",
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "composition": "Coton",
+        "image": "img7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short",
+        "price": "83",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Lin",
+        "image": "img8.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cardigan",
+        "price": "38",
         "sizes": [
             "XS",
             "S",
@@ -180,69 +1151,127 @@
             "XXL"
         ],
         "composition": "Polyester",
-        "image": "img3.jpg"
+        "image": "img7.jpg"
     },
     {
         "id": 4,
-        "name": "Ceinture",
-        "price": "99",
+        "name": "Veste",
+        "price": "81",
         "sizes": [
             "XS",
             "S",
             "M",
             "L"
         ],
-        "composition": "Coton",
+        "composition": "Laine",
         "image": "img4.jpg"
     },
     {
-        "id": 3,
-        "name": "Lunettes de soleil",
-        "price": "26",
+        "id": 9,
+        "name": "Chemise",
+        "price": "23",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Elasthanne",
+        "image": "img9.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Veste",
+        "price": "40",
         "sizes": [
             "XS",
             "S"
         ],
-        "composition": "Elasthanne",
-        "image": "img3.jpg"
+        "composition": "Laine",
+        "image": "img4.jpg"
     },
     {
-        "id": 1,
-        "name": "Echarpe",
-        "price": "62",
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "31",
         "sizes": [
             "XS",
             "S",
             "M",
             "L",
-            "XL",
-            "XXL"
+            "XL"
         ],
-        "composition": "Cuir",
-        "image": "img1.jpg"
+        "composition": "Laine",
+        "image": "img3.jpg"
     },
     {
-        "id": 1,
-        "name": "Echarpe",
-        "price": "20",
+        "id": 7,
+        "name": "Cardigan",
+        "price": "13",
+        "sizes": [
+            "XS"
+        ],
+        "composition": "Elasthanne",
+        "image": "img7.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "66",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Lin",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jean",
+        "price": "69",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "composition": "Laine",
+        "image": "img5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirt",
+        "price": "84",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "Laine",
+        "image": "img3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Manteau",
+        "price": "43",
         "sizes": [
             "XS",
             "S",
             "M"
         ],
         "composition": "Coton",
-        "image": "img1.jpg"
+        "image": "img6.jpg"
     },
     {
-        "id": 7,
-        "name": "Porte-monnaie",
-        "price": "73",
+        "id": 6,
+        "name": "Manteau",
+        "price": "33",
         "sizes": [
             "XS",
-            "S",
-            "M"
+            "S"
         ],
         "composition": "Cuir",
-        "image": "img7.jpg"
+        "image": "img6.jpg"
     }
 ]

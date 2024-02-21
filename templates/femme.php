@@ -22,7 +22,7 @@
         $composition_options = ['Coton', 'Laine', 'Lin', 'Cuir', 'Polyester', 'Elasthanne', 'Viscose'];
 
         $name_index = array_rand($name_options);
-        $name = ucfirst($name_options[$name_index]);
+        $name = $name_options[$name_index];
         $price = number_format(round(rand(10, 100) + (rand(0, 99) / 100)));
         $selected_sizes = [];
 
@@ -65,10 +65,9 @@
 
     echo '<div class="flex-container">';
     foreach ($clothing_list as $clothing) {
-
-        echo '<a class="article" href="">';
+        
         echo '<div class="vetement-femmes">';
-        echo '<img src="assets/img/' . $clothing['image'] . '">';
+        echo '<a class="article" href=""><img src="assets/img/' . $clothing['image'] . '"></a>';
         echo '<div class="padding"></div>';
         echo '<h3>' . $clothing['name'] . '</h3><br>';
         echo '<p>' . $clothing['price'] . '€ </p><br>';
@@ -86,7 +85,6 @@
         echo '<div class="padding"></div>';
         echo '<div class="padding"></div>';
         echo '</div>';
-        echo '</a>';
     }
     echo '</div>'
 

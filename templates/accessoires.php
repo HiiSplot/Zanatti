@@ -18,7 +18,7 @@
 
     function generate_clothing() {
         $sizes = ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
-        $name_options = ['Portefeuille', 'Echarpe', 'Chapeau', 'Lunettes de soleil', 'Ceinture', 'Bijoux', 'Montre', 'Porte-monnaie', 'Foulard'];
+        $name_options = ['Portefeuille', 'Echarpe', 'Chapeau', 'Lunettes de soleil', 'Ceinture', 'Bijoux', 'Montre', 'Porte-monnaie', 'Foulard', 'Casquette'];
         $composition_options = ['Coton', 'Laine', 'Lin', 'Cuir', 'Polyester', 'Elasthanne', 'Viscose'];
 
         $name_index = array_rand($name_options);
